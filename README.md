@@ -1,4 +1,4 @@
-# 🧠 LLM-Powered Flashcard Generator
+#LLM-Powered Flashcard Generator
 
 This is a lightweight yet powerful tool that:
 - Extracts content from PDFs or text files
@@ -6,9 +6,9 @@ This is a lightweight yet powerful tool that:
 - Displays the flashcards in a user-friendly web UI
 - Exports the cards in CSV or JSON for studying or app import
 
----
 
-## 🚀 Features
+
+   Features
 
 - 📄 PDF/Text file parser using `pdfplumber`
 - 🤖 LLM integration with Groq's blazing-fast `LLaMA 3`
@@ -16,9 +16,9 @@ This is a lightweight yet powerful tool that:
 - 🌐 Streamlit-based UI with upload & export support
 - 💾 Download results as `.json` or `.csv`
 
----
 
-## 🛠️ How It Works
+
+How It Works
 
 1. **Text Extraction**
    - Uses `pdfplumber` to extract and clean text from educational PDFs.
@@ -32,9 +32,16 @@ This is a lightweight yet powerful tool that:
    - View them in a table
    - Export to CSV or JSON with a single click
 
----
 
-## 📦 Setup
+
+Streamlit Deploy Link
+
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aryan007-pandit-llm-flashcard-generator.streamlit.app)
+
+> Generate, study, and export AI-powered flashcards using LLaMA 3 on Groq — deployed via Streamlit.
+
+
+Setup
 
 ### 1. Clone the repo
 
