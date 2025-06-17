@@ -36,7 +36,7 @@ How It Works
 
 Streamlit Deploy Link
 
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aryan007-pandit-llm-flashcard-generator.streamlit.app)
+https://llm-flashcard-generator-dmyazkvy3c2s3stuynz7ya.streamlit.app/
 
 > Generate, study, and export AI-powered flashcards using LLaMA 3 on Groq — deployed via Streamlit.
 
